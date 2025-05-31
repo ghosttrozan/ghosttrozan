@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alkaif Khawarizmi</h1>
+<h1 align="center">Hi 👋, I'm Alkaif Khan
 <h3 align="center">🚀 Full Stack Developer | MERN | Java | Tech Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
