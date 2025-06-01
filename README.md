@@ -43,11 +43,11 @@
 ### 🧩 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alkaifkhawarizmi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghosttrozan&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alkaifkhawarizmi&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ghosttrozan&theme=tokyonight&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkaifkhawarizmi&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosttrozan&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alkaifkhawarizmi&theme=monokai&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ghosttrozan&theme=monokai&margin-w=10&no-frame=true" />
 </p>
 
 ---
@@ -73,7 +73,7 @@
 ### 🔗 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alkaifkhawarizmi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ghosttrozan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:alkaifkhawarizmi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://alkaifkhawarizmi.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
@@ -83,7 +83,7 @@
 ### 🔥 Fun Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alkaifkhawarizmi&label=🔥+Profile+Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ghosttrozan&label=🔥+Profile+Views&color=blueviolet&style=flat" />
 </p>
 
 ---
