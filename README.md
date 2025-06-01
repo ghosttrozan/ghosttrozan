@@ -1,44 +1,53 @@
-<h1 align="center">Hi 👋, I'm Alkaif Khan
-<h3 align="center">🚀 Full Stack Developer | MERN | Java | Tech Enthusiast from India 🇮🇳</h3>
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8E2DE2&height=200&section=header&text=Hey%20I'm%20Alkaif%20Khan%20👋&fontSize=40&fontAlignY=35&fontColor=FFFFFF" />
+</p>
+
+<h1 align="center">⚡ Full Stack Developer | MERN | Java | Tech Sorcerer 🔮 from India 🇮🇳</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Lover;Java+%7C+React+%7C+Node+%7C+MongoDB;Always+Building+Something+Cool+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FFF7&vCenter=true&width=600&center=true&lines=Building+Cool+Things+💡;Writing+Clean+Code+👨‍💻;Java+%7C+React+%7C+Node+%7C+MongoDB;Lifelong+Learner+🌱;SaaS+and+Startup+Geek+🚀" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **AcademyPro – School Management System**
-- 🌱 Learning **Advanced Backend (Node.js, JWT, Cloudinary, MongoDB Atlas)**
-- 💬 Ask me about **MERN Stack, Java Projects, Tailwind CSS**
-- 🧠 Always exploring new tech and building side projects
-- 💡 Interested in building startups, SaaS tools, and tech communities
+- 🔥 Working on **AcademyPro – School Management System**
+- 🌱 Currently deep diving into **Advanced Backend Dev**
+- 🛠️ Tech Stack: MERN | Java | Tailwind | Firebase | JWT | MongoDB Atlas
+- 🧠 I believe in **Build → Break → Learn → Repeat**
+- 🚀 Passionate about **SaaS, Tech Communities & Hustling on Side Projects**
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,tailwind,js,html,css,firebase,git,github,vscode" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🧠 Tools & IDEs I Love
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkaifkhawarizmi&theme=radical&hide_border=true"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+### 🧩 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alkaifkhawarizmi&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=alkaifkhawarizmi&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alkaifkhawarizmi&theme=tokyonight&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkaifkhawarizmi&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkaifkhawarizmi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -46,37 +55,39 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alkaifkhawarizmi&theme=radical&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=alkaifkhawarizmi&theme=monokai&margin-w=10&no-frame=true" />
 </p>
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-- [AcademyPro – School Management System](https://your-link.com)  
-  Admin Panel | Results | Fees | Attendance | Built with MERN 💥
+🛠 [AcademyPro – School Management System](#)  
+➡️ Admin Panel | Student Results | Attendance | Fees | Built with 💖 using MERN
 
-- [Swiggy Clone (Frontend)](https://alkaifkhawarizmi.netlify.app)  
-  Modern UI | React.js | CSS | Food Delivery Vibes 🍔
+🍔 [Swiggy UI Clone](https://alkaifkhawarizmi.netlify.app)  
+➡️ React Frontend | Responsive | Foodie Vibes
 
 ---
 
-### 📫 Connect With Me
+### 🔗 Let’s Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/alkaifkhawarizmi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:alkaifkhawarizmi@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://alkaifkhawarizmi.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alkaifkhawarizmi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:alkaifkhawarizmi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://alkaifkhawarizmi.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
+
+---
+
+### 🔥 Fun Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alkaifkhawarizmi&label=🔥+Profile+Views&color=blueviolet&style=flat" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alkaifkhawarizmi&label=Profile%20views&color=0e75b6&style=flat" alt="alkaifkhawarizmi" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=100&section=footer"/>
 </p>
