@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8E2DE2&height=200&section=header&text=Hey%20I'm%20Alkaif%20Khan%20👋&fontSize=40&fontAlignY=35&fontColor=FFFFFF" />
 </p>
 
-<h1 align="center">⚡ Full Stack Developer | MERN | Java | Tech Sorcerer 🔮 from India 🇮🇳</h1>
+<h1 align="center">⚡ Full Stack Developer | MERN | Nextjs | Java | Tech Sorcerer 🔮 from India 🇮🇳</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FFF7&vCenter=true&width=600&center=true&lines=Building+Cool+Things+💡;Writing+Clean+Code+👨‍💻;Java+%7C+React+%7C+Node+%7C+MongoDB;Lifelong+Learner+🌱;SaaS+and+Startup+Geek+🚀" />
@@ -15,7 +15,7 @@
 
 - 🔥 Working on **AcademyPro – School Management System**
 - 🌱 Currently deep diving into **Advanced Backend Dev**
-- 🛠️ Tech Stack: MERN | Java | Tailwind | Firebase | JWT | MongoDB Atlas
+- 🛠️ Tech Stack: MERN | Nextjs | Postgres | Prsisma | Java | Tailwind | Firebase | JWT | MongoDB Atlas
 - 🧠 I believe in **Build → Break → Learn → Repeat**
 - 🚀 Passionate about **SaaS, Tech Communities & Hustling on Side Projects**
 
@@ -62,8 +62,8 @@
 
 ### 🚀 Featured Projects
 
-🛠 [AcademyPro – School Management System](#)  
-➡️ Admin Panel | Student Results | Attendance | Fees | Built with 💖 using MERN
+🛠 [CodeTheft – Url to code converter](https://codetheft.vercel.app)  
+➡️ Url to Html/Css/Js | Url to React/jsx | Enhanced AI Code | Credits System | Built with 💖 using Nextjs
 
 🍔 [Swiggy UI Clone](https://alkaifkhawarizmi.netlify.app)  
 ➡️ React Frontend | Responsive | Foodie Vibes
